@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/c/c5/Globo2021_tent_st.png/revision/latest/scale-to-width-down/340?cb=20201018170416" group-title="BRASIL", GLOBO SP
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_1000/index.m3u8
+#EXTINF:-1 tvg-logo=https://logodownload.org/wp-content/uploads/2018/04/bbb-logo-big-brother-brasil-logo-4.png" group-title="BRASIL", BBB 21
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="BRASIL", SPORTV
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_500/index.m3u8
